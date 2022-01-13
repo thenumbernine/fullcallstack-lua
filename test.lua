@@ -1,6 +1,5 @@
 #!/usr/bin/env lua
 require 'fullcallstack'(function()
-
 	local function b()
 		callNothing()
 	end
