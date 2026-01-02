@@ -5,5 +5,3 @@ This is especially a problem in my symmath project.
 Usage:
 
 require 'fullcallstack' (function() ... end)
-
-And viola.
